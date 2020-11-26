@@ -24,7 +24,7 @@ Please	note,	the	coding	language	must	either	be	Python, Java, or JavaScript.
 
 Clone https://github.com/RakshaSharan/TechTest.git to download the files on to your local machine
 
-Command to Run in commandline below to clone
+Command to Run in commandline:
 $git clone https://github.com/RakshaSharan/TechTest.git
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
