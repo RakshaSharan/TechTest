@@ -42,11 +42,11 @@ $git clone https://github.com/RakshaSharan/TechTest.git
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#Running the code in command line for testing the features
+#Running the code in commandline for testing the features in the project working directory
 
 $behave Features
 
-#Running invdividual features
+#Running/testing invdividual features
 
 $behave Features/returnAllArticles.feature
 
@@ -54,7 +54,7 @@ $behave Features/returnSingleArticle.feature
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Command for allure reports 
+Command for allure reports
 
 $behave -f allure_behave.formatter:AllureFormatter -o reports/ Features
 
