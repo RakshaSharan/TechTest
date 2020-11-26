@@ -20,6 +20,15 @@ Please	note,	the	coding	language	must	either	be	Python, Java, or JavaScript.
 2. Include	a	ReadMe	within	the	project	with	instructions	on	how	to	run	the	tests.	
 	
 3. Upload	your	project	to	GitHub	and	share	the	link
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Testing framework
+-----------------
+
+Scripting Language - Python V3.8
+
+Libraries imported - Behave, requests
+
+Testing Approach - BDD
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -31,11 +40,6 @@ $git clone https://github.com/RakshaSharan/TechTest.git
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Scripting Language - Python V3.8
-
-Libraries imported - Behave, requests
-
-Testing Approach - BDD
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Running the code in command line for testing the features
