@@ -7,7 +7,7 @@ http_request_body = {}
 http_request_url_query_param = {}
 
 
-@given(u'Set GET api endpoint as "{get_api_endpoint}"')
+@given(u'Set api endpoint as "{get_api_endpoint}"')
 def step_impl(context, get_api_endpoint):
     global_general_variables['GET_api_endpoint'] = get_api_endpoint
 
