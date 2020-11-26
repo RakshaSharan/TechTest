@@ -6,6 +6,7 @@ Goals -  Testing API using Python Behave BDD approach for the User Story below
 We	have	2	API	endpoints	located	here:	
  
 • https://5f99522350d84900163b8737.mockapi.io/tech-test/articles	-	returns	a	list	of	articles
+
 • https://5f99522350d84900163b8737.mockapi.io/tech-test/articles/2	-	returns	a	single	article
 
 Both	endpoints	return	data	in	JSON	format	and	only	support	HTTP	GET	methods.
