@@ -1,7 +1,7 @@
 Feature: Returns a list of articles
 
 Background:
-  Given Set GET api endpoint as "https://5f99522350d84900163b8737.mockapi.io/tech-test/articles"
+  Given Set api endpoint as "https://5f99522350d84900163b8737.mockapi.io/tech-test/articles"
 
 @getTag
 Scenario: Get list of articles
