@@ -7,3 +7,6 @@
 #    pip install -r <THIS_FILE>
 # SPECIFIC DEPENDENCIES:
 #   behave  -- BDD test framework, cucumber-clone for Python.
+#   pip install behave
+#   requests - HTTP connection module
+#   pip install requests 
