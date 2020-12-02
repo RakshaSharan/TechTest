@@ -43,7 +43,7 @@ def step_impl(context, http_request_type):
                                                                  params=http_request_url_query_param,
                                                                  data=http_request_body)
     elif 'DELETE' == http_request_type:
-        http_request_body.clear()
+        http_request_url_query_param.clear()
         global_general_variables['response_full'] = requests.delete(url_temp,
                                                                     headers=http_request_header,
                                                                     params=http_request_url_query_param,
